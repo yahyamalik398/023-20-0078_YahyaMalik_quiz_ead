@@ -1,0 +1,57 @@
+.group-child3 {
+  background-color: var(--color-white);
+  width: 1028px;
+  height: 136px;
+}
+.group-child3,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.about-us1,
+.contact,
+.menu {
+  position: absolute;
+  top: 0;
+  left: 95px;
+}
+.about-us1,
+.contact {
+  left: 176px;
+}
+.contact {
+  left: 303px;
+}
+.home-parent,
+.image-1-icon {
+  position: absolute;
+  top: 56px;
+  left: 484px;
+  width: 379px;
+  height: 24px;
+}
+.image-1-icon {
+  top: 0;
+  left: 0;
+  width: 102px;
+  height: 124px;
+  object-fit: cover;
+}
+.group-div,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 71px;
+  width: 863px;
+  height: 124px;
+}
+.group-div {
+  left: 0;
+  width: 1028px;
+  height: 136px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,43 @@
+.barfi {
+  margin: 0;
+}
+.barfi-rs-900-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 164px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 174px;
+  height: 47px;
+}
+.order-now {
+  position: absolute;
+  top: 12px;
+  left: 35px;
+}
+.barfi-rs-900-parent,
+.rectangle-group {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 174px;
+  height: 47px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.barfi-rs-900-parent {
+  top: 964px;
+  left: 129px;
+  height: 126px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

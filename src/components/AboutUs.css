@@ -1,0 +1,53 @@
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-silver);
+  width: 1028px;
+  height: 935px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 36.29px;
+  left: 524px;
+  width: 402px;
+  height: 296.2px;
+  object-fit: cover;
+}
+.at-our-bakery {
+  margin: 0;
+}
+.about-us,
+.at-our-bakery-container {
+  position: absolute;
+  top: 211.81px;
+  left: 0;
+  display: inline-block;
+  width: 934px;
+  height: 427.84px;
+}
+.about-us {
+  top: 0;
+  left: 44px;
+  font-size: var(--font-size-21xl);
+  width: 251px;
+  height: 43.04px;
+}
+.at-our-bakery-baking-isnt-ju-parent {
+  position: absolute;
+  top: 146.83px;
+  left: 57px;
+  width: 934px;
+  height: 639.65px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 1585px;
+  left: 0;
+  width: 1028px;
+  height: 935px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
